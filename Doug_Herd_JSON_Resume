@@ -1,0 +1,49 @@
+ {
+ 	"name": {
+ 		"first": "Doug",
+ 		"last": "Herd"
+ 	},
+ 	"contact info": {
+ 		"email": "djherd@gmail.com",
+ 		"mobile": "206.898.2223"
+ 	},
+ 	"Objective": "A motivated, solution-focused, results-driven IT Sales Professional with a growth mindset and a proven 16+ year history of delivering innovative IT solutions designed to meet and exceed business expectations and drive the success of multiple large scale corporate initiatives. ",
+ 	"Skills and Abilities": [
+        {"skill": "Pre-Sales Engineering & Consulting for large scale global customers across many verticals"},
+ 		{"skill": "Driving sales campaigns for global enterprise customers, online retail, healthcare, cloud service providers"},
+ 		{"skill": "Guiding customers in their digital transformation into mode-2 IT solutions"},
+ 		{"skill": "Understanding the market and competitors and how to position solutions to provide customer value"},
+ 		{"skill": "Customer Obsessive – Challenger Mindset – Outside Of The Box Thinker"}
+ 	],
+ 	"Experience": [{
+ 			"title": "SOLUTIONS CONSULTANT – SPECIALIST | HITACHI DATA SYSTEMS | OCTOBER, 2014 - present",
+ 			"duties1": "Solutions Consultant, responsible for Hitachi Data System’s full product portfolio, ranging from enterprise block storage, enterprise file, content and analytics for open source solutions",
+ 			"duties2": "Specializing in converged, hyper converged and flash technologies",
+ 			"duties3": "Maintain multiple accounts across many verticals",
+ 			"duties4": "Presenting and providing guidance to customers",
+ 			"duties5": "Driving solution based sales campaigns",
+ 			"duties6": "Converged & Flash Subject Matter Expert",
+ 			"duties7": "Assisting and advising customers in scoping / sizing new technologies and communicating how new technologies will provide business value",
+ 			"duties8": "Working with existing and prospective customers to communicate technology differentiation in the market place"},
+ 		{"title": "SR. Systems Engineer | MICROSOFT-ADCENTER | MAY, 2007 – OCTOBER, 2014",
+ 			"duties1": "Sr. SAN Engineer, responsible for Engineering Enterprise SAN Arrays and Fabric Design.  Maintaining a multi -petabyte SAN Infrastructure in multiple production & DR data centers and multi-node SQL clusters",
+ 			"duties2": "Managing data replication between sites and implementing block level de-duplication on teir-1 storage",
+ 			"duties3": "In charge of vetting new technologies and providing technical analysis"},
+ 		{"title": "SYSTEMS ENGINEER | AQUANTIVE INC | FEBRUARY, 2005 – MAY, 2007",
+ 			"duties1": "SAN Engineer, responsible for Engineering, Implementing, and Supporting EMC Arrays supporting MSSQL as well as a High Computing Cluster, all running on Clariion CX Arrays",
+ 			"duties2": "Supported multiple data center moves and implemented / maintained a data replication solution for a DR Site"},
+ 		{"title": "CLIENT SERVICE ENGINEER | UNISYS CORP | NOVEMBER, 1999 – FEBRUARY, 2005",
+ 			"duties1": "Primary EMC Support CE for the Unisys team.  Lead a team of support engineers responsible for attending planning meetings with customers, installs, microcode upgrades and hardware support for EMC customers in the Northwest"}
+ 	],
+ 	"Key Accomplishments and Relevant Experience": [
+ 		{"accomp": "Pre-Sales Engineer – Hitachi Data Systems - In 3 years I have been responsible for $44M in sales at some very large strategic accounts in the Pacific Northwest. This includes Enterprise Hardware, Software and Service driven solutions across multiple accounts"},
+ 		{"accomp": "Customer Presenter at EMC WORLD in Las Vegas – May, 2014 - Provided testing methodology and results of All Flash Array Testing in multiple presentation sessions"},
+ 		{"accomp": "Performance Testing Presentation - Developed streamlined process for presenting test performance data for multiple vendor AFA POC’s"}
+ 	],
+ 	"Education / Certifications": [
+ 		{"edu": "Associates Degree | November 1999 | HTI Phoenix, AZ"},
+ 		{"edu": "SNIA – Certified Storage Professional"},
+ 		{"edu": "Microsoft MCP"}
+
+ 	]
+ }
